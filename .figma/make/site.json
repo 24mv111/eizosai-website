@@ -1,0 +1,10 @@
+{
+  "description": "学生制作の映画やアニメーションの上映作品、当日のプログラム、会場・アクセス情報を確認できる映像祭の公式サイトです。",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
